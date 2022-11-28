@@ -18,7 +18,8 @@ body {
 }
 
 .button {
-    height: 150px;
+    padding: 0px;
+    height: 125px;
 }
 
 .pumpkin {
