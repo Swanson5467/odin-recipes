@@ -1,0 +1,28 @@
+body {
+    background-color: green;
+}
+
+.title {
+    color: purple;
+    text-align: center;
+    background-color: aqua;
+    font-size: 72px;
+}
+
+.recipes {
+    font-size: 40px;
+    font-family: 'Papyrus';
+}
+
+.pumpkin {
+    color: orange;
+    background-color: white;
+}
+
+.tiramisu {
+    color: brown;
+}
+
+.elephant {
+    color: tan;
+}
