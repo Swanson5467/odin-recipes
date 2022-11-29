@@ -11,7 +11,7 @@ body {
     font-size: 72px;
 }
 
-.recipes {
+.recipes-link {
     font-size: 40px;
     font-family: 'Papyrus';
     padding: 40px;
@@ -32,4 +32,28 @@ body {
 
 .elephant {
     color: tan;
+}
+
+.testlink {
+    /*font-size: 30px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    line-height: 100%;
+    display: inline-block;
+    width: 100%;
+    height: 100%;*/
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+.testbutton {
+    
+    justify-content: center;
+    width: 500px;
+    height: 100px;
 }
